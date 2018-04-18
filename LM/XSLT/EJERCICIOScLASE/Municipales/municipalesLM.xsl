@@ -6,7 +6,20 @@
     <xsl:output method="html"/>
     
     <xsl:template match="/">
-        <xsl:apply-templates select="//escrutinio_sitio/nombre_sitio"></xsl:apply-templates>
+        <html>
+            <style>
+                p{display:table-cell;
+                vertical-align:top;} 
+                
+                table{margin-left: auto;
+                margin-right: auto; background-color: #e2cfe9; }
+                
+                
+            </style>
+            <head></head>
+            <body><xsl:apply-templates select="//escrutinio_sitio/nombre_sitio"></xsl:apply-templates></body>
+        </html>
+        
     </xsl:template>
     
     <xsl:template match="//escrutinio_sitio/nombre_sitio">
