@@ -20,7 +20,7 @@
                 
             </style>
             <head></head>
-            <body><xsl:apply-templates select="//escrutinio_sitio/nombre_sitio"></xsl:apply-templates></body>
+            <body><xsl:apply-templates select="municipales/escrutinio_sitio/nombre_sitio"></xsl:apply-templates></body>
         </html>
         
     </xsl:template>
