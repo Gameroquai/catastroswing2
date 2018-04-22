@@ -1,4 +1,5 @@
-caption {text-align:left; margin:15px;}
-table{margin-left: auto; margin-right: auto; background-color: #e2cfe9;}
-tr,td{color:purple}
-#cant{font-weight:bold}
+caption {margin-bottom:20px; text-align:left; font-weight:bold;}
+table{margin-left: auto; margin-right: auto; background-color: #e6ccff; border-collapse:collapse; border:white;}
+
+tr{color:#7700e6}
+#cant{font-weight:bold; color:#7700e6}
