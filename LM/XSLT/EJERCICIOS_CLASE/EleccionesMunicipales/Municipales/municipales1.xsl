@@ -4,12 +4,18 @@
     exclude-result-prefixes="xs"
     version="2.0">
     <xsl:template match="/">
+        <html>
+            <head>
+                <title>municiplales</title>
+                <link rel="stylesheet" href="estilo.css"/>
+                
+            </head>
         <table border="1">
             <xsl:apply-templates select="municipales/escrutinio_sitio"/>
             
         </table>
         
-        
+        </html>     
     </xsl:template>
     
     <xsl:template match="escrutinio_sitio">
@@ -20,8 +26,17 @@
     </xsl:template>
     
     <xsl:template match="resultados">
-        <xsl:value-of select="partido"/> <br/>
+     <table> 
+            <tr> <th>Nombre Parido</th><th>nº de votos</th><th>% votos</th></tr>
+            <xsl:apply-templates select="partido"/>
+     </table>
+         
     </xsl:template>
-    
-    
+    <xsl:template match="partido">
+    <tr>
+        <td><xsl:value-of select="nombre"/></td>
+        <td><xsl:value-of select="votos_numero"/></td>
+        <td><xsl:value-of select="votos_porciento"/></td>
+    </tr>
+    </xsl:template>
 </xsl:stylesheet>

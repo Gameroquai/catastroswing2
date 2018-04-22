@@ -8,14 +8,11 @@
     <xsl:template match="/">
         <html>
             <style>
-                b{display:table-cell;
+                p{display:table-cell;
                 vertical-align:top;} 
                 
                 table{margin-left: auto;
-                margin-right: auto; background-color: #e2cfe9; border-collapse: collapse; }
-                table, th, td {
-                border: 2px solid white;
-                }
+                margin-right: auto; background-color: #e2cfe9; }
                 
                 
             </style>
@@ -31,7 +28,7 @@
         
         <p><b>Datos Generales</b></p>
         <p></p>
-        <table>
+        <table border="1">
             <tr>
                 <th></th>
                 <th>Votos</th>
@@ -46,10 +43,10 @@
             <td><xsl:value-of select="/municipales/escrutinio_sitio/votos/blancos/cantidad"/></td>
             <tr>
                 <td>Porcentaje</td>
-                <td><xsl:value-of select="/municipales/escrutinio_sitio/votos/contabilizados/porcentaje"/>%</td>
-                <td><xsl:value-of select="/municipales/escrutinio_sitio/votos/abstenciones/porcentaje"/>%</td>           
-                <td><xsl:value-of select="/municipales/escrutinio_sitio/votos/nulos/porcentaje"/>%</td>
-                <td><xsl:value-of select="/municipales/escrutinio_sitio/votos/blancos/porcentaje"/>%</td>
+                <td><xsl:value-of select="/municipales/escrutinio_sitio/votos/contabilizados/porcentaje"/></td>
+                <td><xsl:value-of select="/municipales/escrutinio_sitio/votos/abstenciones/porcentaje"/></td>           
+                <td><xsl:value-of select="/municipales/escrutinio_sitio/votos/nulos/porcentaje"/></td>
+                <td><xsl:value-of select="/municipales/escrutinio_sitio/votos/blancos/porcentaje"/></td>
             </tr>
             
         </table>
