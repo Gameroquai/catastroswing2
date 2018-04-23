@@ -12,6 +12,8 @@
            
             <body> 
                 <xsl:apply-templates select="/municipales/escrutinio_sitio"></xsl:apply-templates>
+                
+                
             </body>
            
        </html>
@@ -30,7 +32,7 @@
                 <th>Blancos</th>
             </tr>
             <tr>
-                <td id="cant">Cantidad</td>
+                <td id="cant"></xsl:attribute>Cantidad</td>
                 <td><xsl:value-of select="votos/contabilizados/cantidad"/></td>
                 <td><xsl:value-of select="votos/abstenciones/cantidad"/></td>
                 <td><xsl:value-of select="votos/nulos/cantidad"/></td>
@@ -46,6 +48,26 @@
                 
             </tr>
         </table>
+        <h3>Resultados por partidos.Numero de partidos que concurren: <xsl:value-of select="resultados/numero_partidos"/></h3>
+        <table border="1">
+            <tr>
+                <th>Partido</th>
+                <th>numero de votos</th>
+                <th>Porcentaje</th>
+                <th>Concejales</th>
+            </tr>
+         <xsl:apply-templates select="resultados/partido"></xsl:apply-templates>
+        </table>
         
+            </xsl:template>
+    
+    <xsl:template match="partido">
+ 
+            <tr>
+                <td><xsl:value-of select="nombre"/></td>
+                <td><xsl:value-of select="votos_numero"/></td>
+                <td><xsl:value-of select="votos_porciento"/></td>
+                <td><xsl:value-of select="electos"/></td>
+            </tr>
     </xsl:template>
 </xsl:stylesheet>
