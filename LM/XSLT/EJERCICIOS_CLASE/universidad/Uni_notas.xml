@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<?xml-stylesheet type="text/xsl" href="univ1.xsl"?>
-
+<?xml-stylesheet type="text/xsl" href="J:\XML\Universidad\Exp_XPath.xsl"?>
+<?xml-stylesheet type="text/xsl" href="C:\XML\Universidad\resultados_notas_asignaturas.xsl"?>
+<?xml-stylesheet type="text/xsl" href="C:\xml\Universidad\resultados_asig_alumno.xsl"?>
+<?xml-stylesheet type="text/xsl" href="C:\XML\Universidad\universia.xsl"?>
+<!--universidad xmlns="mi_universidad"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+				xsi:schemaLocation="mi_universidad
+				C:\XML\Universidad\universidad2.xsd"-->
 <universidad>
-
-
 	<nombre>Universidad de Victoria</nombre>
-	<pais>España</pais>
+	<pais>Espana</pais>
 	<!-- CARRERAS -->
 	<carreras>
 		<carrera id="c01">
-			<nombre>I.T. Informática</nombre>
+			<nombre>I.T. Informatica</nombre>
 			<plan>2003</plan>
 			<creditos>250</creditos>
 			<centro>Escuela de Informática</centro>
@@ -113,11 +117,10 @@
 			<estudios>
 				<carrera codigo="c01"/>
 				<asignaturas>
-					<asignatura codigo="a05"/>
-					<asignatura codigo="a09"/>
 					<asignatura codigo="a01"/>
 					<asignatura codigo="a03"/>
-					
+					<asignatura codigo="a05"/>
+					<asignatura codigo="a09"/>
 				</asignaturas>
 			</estudios>
 		</alumno>
@@ -143,14 +146,29 @@
 			<estudios>
 				<carrera codigo="c02"/>
 				<asignaturas>
-					<asignatura codigo="a02"/>
+					<asignatura codigo="a02">
+					<notas>
+						<nota>
+						  <nombre>1ª Eva</nombre>
+						  <valor>9</valor>
+						</nota>
+						<nota>
+						  <nombre>3ª Eva</nombre>
+						  <valor>6</valor>
+						</nota>
+						<nota>
+						  <nombre>Final</nombre>
+						  <valor>10</valor>
+						</nota>
+					 </notas>
+					</asignatura>
 					<asignatura codigo="a01"/>
 					<asignatura codigo="a04"/>
 					<asignatura codigo="a09"/>
 				</asignaturas>
 			</estudios>
 		</alumno>
-		<alumno id="e04">
+		<alumno id="e04" beca="si">
 			<apellido1>Avalón</apellido1>
 			<apellido2>Jiménez</apellido2>
 			<nombre>María</nombre>
@@ -158,8 +176,39 @@
 			<estudios>
 				<carrera codigo="c01"/>
 				<asignaturas>
-					<asignatura codigo="a02"/>
-					<asignatura codigo="a01"/>
+					<asignatura codigo="a02">
+					  <notas>
+						<nota>
+						  <nombre>1ª Eva</nombre>
+						  <valor>7</valor>
+						</nota>
+						<nota>
+						  <nombre>3ª Eva</nombre>
+						  <valor>7</valor>
+						</nota>
+						<nota>
+						  <nombre>Final</nombre>
+						  <valor>7</valor>
+						</nota>
+					 </notas>
+					  
+					</asignatura>
+					<asignatura codigo="a01">
+						<notas>
+						<nota>
+						  <nombre>1ª Eva</nombre>
+						  <valor>4</valor>
+						</nota>
+						<nota>
+						  <nombre>3ª Eva</nombre>
+						  <valor>5</valor>
+						</nota>
+						<nota>
+						  <nombre>Final</nombre>
+						  <valor>4</valor>
+						</nota>
+					 </notas>
+					</asignatura>
 					<asignatura codigo="a07"/>
 				</asignaturas>
 				<proyecto>Estudio de Salinidad del Pantano Iris</proyecto>

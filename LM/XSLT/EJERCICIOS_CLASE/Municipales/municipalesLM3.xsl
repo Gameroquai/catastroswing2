@@ -32,7 +32,7 @@
      <h2>      Resultados de las Elecciones Municipales en :<xsl:value-of select="nombre_sitio"/>   </h2>     
       
         <p></p>
-        <table border="1">
+        <table><xsl:attribute name="class">T1</xsl:attribute>
             <caption>Datos Generales</caption>
             <tr>
                 <th></th>
@@ -42,7 +42,7 @@
                 <th>Blancos</th>
             </tr>
             <td>Cantidad</td>
-            <td><xsl:value-of select="./votos/contabilizados/cantidad"/></td>
+            <td><xsl:value-of select="votos/contabilizados/cantidad"/></td>
             <td><xsl:value-of select="votos/abstenciones/cantidad"/></td>
             <td><xsl:value-of select="votos/nulos/cantidad"/></td>
             <td><xsl:value-of select="votos/blancos/cantidad"/></td>
