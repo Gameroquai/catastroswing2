@@ -7,24 +7,25 @@
     <xsl:template match="/">
         <html>
             <head>
-                <link href="boletin1.css" rel="stylesheet"/>
+                <link href="boletin1.css" rel="stylesheet"/> <!--Aplica estilo css-->
             </head>
             <body>
-                <xsl:for-each select="//ALUMNO">
-                    <xsl:sort select="C_NUMESCOLAR"/>
-                    <xsl:variable name="alumnoCodigo" select="C_NUMESCOLAR"/>
+                <xsl:for-each select="//ALUMNO"><!-- salta todo y va al nodo que digas-->
+                    <xsl:sort select="C_NUMESCOLAR"/> <!--ordena por numero escolar-->
+                    <xsl:variable name="alumnoCodigo" select="C_NUMESCOLAR"/> <!--guarda el numero escolar en una variable-->
                     <xsl:variable name="alumno" select="concat(C_NUMESCOLAR,' Alumno: ',T_APELLIDO1,' ',T_APELLIDO2,', ',T_NOMBRE_ALU)"/>
-                
+<!--    guarda en la variable alumno la concatenacion de numero escolar apellido 1 apellido 2   y el nombre del alumno   -->
                 <table border="1">
                  
                     <tr>
-                        <td><xsl:attribute name="class">
-                            <xsl:text>a1</xsl:text>
-                        </xsl:attribute><xsl:value-of select="$alumno"/></td>
+                        <td><xsl:attribute name="class"> <!-- le pone el atributo class al td para despues aplicarle el estilo en el css -->
+                            
+                            <xsl:text>a1</xsl:text> <!-- introduce un texto  -->
+                        </xsl:attribute><xsl:value-of select="$alumno"/></td> <!-- preguntar -->
                     </tr>
                     
                     <tr>
-                        <td><xsl:attribute name="class">
+                        <td><xsl:attribute name="class"> <!-- preguntar -->
                             <xsl:text>a2</xsl:text>
                         </xsl:attribute>
                             Datos Personales</td>
@@ -33,8 +34,8 @@
                     <tr>
                         <td>
                             <ol>
-                                <xsl:variable name="datos" select='document("datos_alumnos.xml")//ROW[NIE=current()/C_NUMESCOLAR]'/>
-                                <li>DIRECCIÓN: <xsl:value-of select="$datos/DIRECCION"/></li>
+                                <xsl:variable name="datos" select='document("datos_alumnos.xml")//ROW[NIE=current()/C_NUMESCOLAR]'/> <!-- guarda en la variable datos a partir de un documento externo  -->
+                                <li>DIRECCIÓN: <xsl:value-of select="$datos/DIRECCION"/></li><!-- saca de la variable datos los datos del documento externo  -->
                                 <li>LOCALIDAD: <xsl:value-of select="$datos/LOCALIDAD"/></li>
                                 <li>SEXO: <xsl:value-of select="$datos/SEXO"/></li>
                             </ol>
@@ -43,7 +44,7 @@
                     
                     <tr>
                         <td><xsl:attribute name="class">
-                            <xsl:text>a2</xsl:text>
+                            <xsl:text>a2</xsl:text> <!-- preguntar -->
                         </xsl:attribute>
                             Datos Académicos
                         </td>
@@ -97,7 +98,7 @@
     </xsl:template>
     
      <xsl:template name="pintarFaltas">
-        <xsl:param name="codigoAlumno"/>
+        <xsl:param name="codigoAlumno"/> <!-- preguntar -->
         <xsl:variable name="datos" select="document('1DAW_FAltas_18.xml')//ALUMNO[C_NUMESCOLAR=$codigoAlumno]"/>
         <xsl:for-each select="$datos/FALTAS_ASISTENCIA/FALTA_ASISTENCIA">
             <option>
