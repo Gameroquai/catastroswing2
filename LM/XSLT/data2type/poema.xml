@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="poemaHojaDeEstilo.xsl"?>
+<antologia>
+    <poema añodepublicacion="1905" idioma="de">
+        <autor>
+            <nombre>Rainer Maria</nombre>
+            <apellido>Rilke</apellido>
+        </autor>
+        <titulo>Der Panther</titulo>
+        <subtitulo>Im Jardin des Plantes, Paris</subtitulo>
+        <estrofa>
+            <verso>Sein Blick ist vom Vorübergehn der Stäbe</verso>
+            <verso>so müd geworden, daß er nichts mehr hält.</verso>
+            <verso>Ihm ist, als ob es tausend Stäbe gäbe</verso>
+            <verso> und hinter tausend Stäben keine Welt.</verso>
+        </estrofa>
+        
+        <estrofa>
+            <verso>Der weiche Gang geschmeidig starker Schritte,</verso>
+            <verso> der sich im allerkleinsten Kreise dreht,</verso>
+            <verso> ist wie ein Tanz von Kraft um eine Mitte,</verso>
+            <verso>in der betäubt ein großer Wille steht.</verso>
+        </estrofa>
+        <estrofa>
+            <verso> Nur manchmal schiebt der Vorhang der <negrilla>Pupille</negrilla></verso>
+            <verso>sich lautlos auf -. Dann geht ein Bild hinein,</verso>
+            <verso> geht durch der <negrilla>Glieder</negrilla> angespannte Stille -</verso>
+            <verso>und hört im <negrilla>Herzen</negrilla> auf zu sein.</verso>
+        </estrofa>
+    </poema>
+    
+    <poema añodepublicacion="1799" idioma="de">
+        <autor>
+            <nombre>Johann Wolfgang</nombre>
+            <apellido> von Goethe</apellido>
+        </autor>
+        <titulo>Der Zauberlehrling</titulo>
+        <estrofa>
+            <verso>Hat der alte Hexenmeister</verso>
+            <verso>Sich doch einmal wegbegeben!</verso>
+            <verso>Und nun sollen seine Geister</verso>
+            <verso>Auch nach meinem Willen leben.</verso>
+            <verso>Seine Wort und Werke</verso>
+            <verso>Merkt ich und den Brauch,</verso>
+            <verso>Und mit Geistesstärke</verso>
+            <verso>Tu ich Wunder auch.</verso>
+        </estrofa>
+        
+        <estrofa>
+            <verso>Walle! walle</verso>
+            <verso>Manche Strecke,</verso>
+            <verso>Daß, zum Zwecke,</verso>
+            <verso>Wasser fließe</verso>
+            <verso>Und mit reichem, vollem Schwalle</verso>
+            <verso>Zu dem Bade sich ergieße.</verso>
+        </estrofa>
+        
+        <estrofa>
+            <verso>Und nun komm, du alter Besen,</verso>
+            <verso>Nimm die schlechten Lumpenhüllen!</verso>
+            <verso>Bist schon lange Knecht gewesen:</verso>
+            <verso>Nun erfülle meinen Willen!</verso>
+            <verso>Auf zwei <negrilla>Beinen</negrilla> stehe,</verso>
+            <verso>Oben sei ein Kopf,</verso>
+            <verso>Eile nun und gehe</verso>
+            <verso>Mit dem Wassertopf!</verso>
+        </estrofa>
+        
+        <estrofa>
+            <verso>Walle! walle</verso>
+            <verso>Manche Strecke,</verso>
+            <verso>Daß, zum Zwecke,</verso>
+            <verso>Wasser fließe</verso>
+            <verso>Und mit reichem, vollem Schwalle</verso>
+            <verso>Zu dem Bade sich ergieße.</verso>
+        </estrofa>
+        
+        <estrofa>
+            <verso>Seht, er läuft zum Ufer nieder;</verso>
+            <verso>Wahrlich! ist schon an dem Flusse,</verso>
+            <verso>Und mit Blitzesschnelle wieder</verso>
+            <verso>Ist er hier mit raschem Gusse.</verso>
+            <verso>Schon zum zweiten Male!</verso>
+            <verso>Wie das Becken schwillt!</verso>
+            <verso>Wie sich jede Schale</verso>
+            <verso>Voll mit Wasser füllt!</verso>
+            <verso>Stehe! stehe!</verso>
+            <verso>Denn wir haben</verso>
+            <verso>Deiner Gaben</verso>
+            <verso>Vollgemessen! -</verso>
+            <verso>Ach, ich merk es! Wehe! wehe!</verso>
+            <verso>Hab ich doch das Wort vergessen!</verso>
+        </estrofa>
+        
+        <estrofa>
+            <verso>Ach, das Wort, worauf am Ende</verso>
+            <verso>Er das wird, was er gewesen.</verso>
+            <verso>Ach, er läuft und bringt behende!</verso>
+            <verso>Wärst du doch der alte Besen!</verso>
+            <verso>Immer neue Güsse</verso>
+            <verso>Bringt er schnell herein,</verso>
+            <verso>Ach! und hundert Flüsse</verso>
+            <verso>Stürzen auf mich ein!</verso>
+            <verso>Nein, nicht länger</verso>
+            <verso>Kann ich's lassen;</verso>
+            <verso>Will ihn fassen.</verso>
+            <verso>Das ist Tücke!</verso>
+            <verso>Ach, nun wird mir immer bänger!</verso>
+            <verso>Welche Miene! welche Blicke!</verso>
+        </estrofa>
+        
+        <estrofa>
+            <verso>O du Ausgeburt der Hölle!</verso>
+            <verso>Soll das ganze Haus ersaufen?</verso>
+            <verso>Seh ich über jede Schwelle</verso>
+            <verso>Doch schon Wasserströme laufen.</verso>
+            <verso>Ein verruchter Besen,</verso>
+            <verso>Der nicht hören will!</verso>
+            <verso>Stock, der du gewesen,</verso>
+            <verso>Steh doch wieder still!</verso>
+            <verso>Willst's am Ende</verso>
+            <verso>Gar nicht lassen?</verso>
+            <verso>Will dich fassen,</verso>
+            <verso>Will dich halten</verso>
+            <verso>Und das alte Holz behende</verso>
+            <verso>Mit dem scharfen Beile spalten.</verso>
+        </estrofa>
+        
+        <estrofa>
+            <verso>Seht, da kommt er schleppend wieder!</verso>
+            <verso>Wie ich mich nur auf dich werfe,</verso>
+            <verso>Gleich, o Kobold, liegst du nieder;</verso>
+            <verso>Krachend trifft die glatte Schärfe.</verso>
+            <verso>Wahrlich! brav getroffen!</verso>
+            <verso>Seht, er ist entzwei!</verso>
+            <verso>Und nun kann ich hoffen,</verso>
+            <verso>Und ich atme frei!</verso>
+            <verso>Wehe! wehe!</verso>
+            <verso>Beide Teile</verso>
+            <verso>Stehn in Eile</verso>
+            <verso>Schon als Knechte</verso>
+            <verso>Völlig fertig in die Höhe!</verso>
+            <verso>Helft mir, ach! ihr hohen Mächte!</verso>
+        </estrofa>
+        
+        <estrofa>
+            <verso>Und sie laufen! Naß und nässer</verso>
+            <verso>Wird's im Saal und auf den Stufen.</verso>
+            <verso>Welch entsetzliches Gewässer!</verso>
+            <verso>Herr und Meister! hör mich rufen! -</verso>
+            <verso>Ach, da kommt der Meister!</verso>
+            <verso>Herr, die Not ist groß!</verso>
+            <verso>Die ich rief, die Geister,</verso>
+            <verso>Werd ich nun nicht los.</verso>
+            <verso>In die Ecke,</verso>
+            <verso>Besen! Besen!</verso>
+            <verso>Seid's gewesen.</verso>
+            <verso>Denn als Geister</verso>
+            <verso>Ruft euch nur, zu seinem Zwecke,</verso>
+            <verso>Erst hervor der alte Meister.</verso>
+        </estrofa>
+    </poema>
+    
+    <poema añodepublicacion="1945" idioma="de">
+        <autor>
+            <nombre>Berthold </nombre>
+            <apellido>Brecht</apellido>
+        </autor>
+        <titulo>Die Moritat von Mackie Messer</titulo>
+        <estrofa>
+            <verso>Und der Haifisch, der hat <negrilla>Zähne</negrilla></verso>
+            <verso>Und die trägt er im <negrilla>Gesicht</negrilla></verso>
+            <verso>Und Macheath, der hat ein Messer</verso>
+            <verso>Doch das Messer sieht man nicht.</verso>
+        </estrofa>
+        
+        <estrofa>
+            <verso>Und es sind des Haifischs <negrilla>Flossen</negrilla></verso>
+            <verso>Rot, wenn dieser Blut vergiesst</verso>
+            <verso>Mackie Messer trägt'nen Handschuh</verso>
+            <verso>Drauf man keine Untat liest.</verso>
+        </estrofa>
+        
+        <estrofa>
+            <verso>An der Themse grünem Wasser</verso>
+            <verso>Fallen plötzlich Leute um</verso>
+            <verso>Es ist weder Pest noch Cholera</verso>
+            <verso>Doch es heisst: Mackie geht um.</verso>
+        </estrofa>
+        
+        <estrofa>
+            <verso>An'nem schönen blauen Sonntag</verso>
+            <verso>Liegt ein toter Mann am Strand</verso>
+            <verso>Und ein Mensch geht um die Ecke</verso>
+            <verso>Den man Mackie Messer nennt.</verso>
+        </estrofa>
+        
+        <estrofa>
+            <verso>Und Schmul Meier bleibt versochwunden</verso>
+            <verso>Und so mancher reiche Mann</verso>
+            <verso>Und sein Geld hat Mackie Messer</verso>
+            <verso>Dem man nichts beweisen kann.</verso>
+        </estrofa>
+        
+        <estrofa>
+            <verso>Jenny Towler ward gefunden</verso>
+            <verso>Mit'nem Messer in der <negrilla>Brust</negrilla></verso>
+            <verso>Und am Kai geht Mackie Messer</verso>
+            <verso>Der von allem nichts gewusst.</verso>
+        </estrofa>
+        
+        <estrofa>
+            <verso>Wo ist Alfons gleich, der Fuhrherr?</verso>
+            <verso>Kommt das je ans Sonnenlicht?</verso>
+            <verso>Wer es immer wissen könnte</verso>
+            <verso>Mackie Messer weiss es nicht.</verso>
+        </estrofa>
+        
+        <estrofa>
+            <verso>Und das grosse Feuer in Soho</verso>
+            <verso>Sieben Kinder und ein Greis</verso>
+            <verso>In der Menge Mackie Messer, den</verso>
+            <verso>Man nicht fragt, und der nichts weiss.</verso>
+        </estrofa>
+        
+        <estrofa>
+            <verso>Und die minderjähr'ge Witwe</verso>
+            <verso>Deren Namen jeder weiss</verso>
+            <verso>Wachte auf und war geschändet</verso>
+            <verso>Mackie welches war dein Preis?</verso>
+        </estrofa>
+    </poema>
+    
+    <poema añodepublicacion="1890" idioma="de">
+        <autor>
+            <nombre>Heinrich Christian Wilhelm</nombre>
+            <apellido>Busch</apellido>
+        </autor>
+        <titulo> Pst!</titulo>
+        <estrofa>
+            <verso>Es gibt ja leider Sachen und Geschichten,</verso>
+            <verso>Die reizend und pikant,</verso>
+            <verso>Nur werden sie von Tanten und von Nichten</verso>
+            <verso>Niemals genannt.</verso>
+        </estrofa>
+        
+        <estrofa>
+            <verso>Verehrter Freund, so sei denn nicht vermessen,</verso>
+            <verso>Sei zart und schweig auch du.</verso>
+            <verso>Bedenk: Man liebt den Käse wohl, indessen</verso>
+            <verso>Man deckt ihn zu.</verso>
+        </estrofa>
+    </poema>
+    
+    <poema añodepublicacion="-750" idioma="el">
+        <autor>
+            <nombre/>
+            <apellido>Όμηρος</apellido>
+        </autor>
+        <titulo>Ιλιάδα</titulo>
+        <estrofa>
+            <verso>Μῆνιν ἄειδε, θεὰ, Πηληιάδεω Ἀχιλῆος</verso>
+            <verso>οὐλομένην, ἣ μυρί’ Ἀχαιοῖς ἄλγε’ ἔθηκε,</verso>
+            <verso>πολλὰς δ’ ἰφθίμους ψυχὰς Ἄϊδι προῒαψεν</verso>
+            <verso>ἡρώων, αὐτοὺς δὲ ἑλώρια τεῦχε κύνεσσιν</verso>
+            <verso>οἰωνοῖσί τε πᾶσι• Διὸς δ’ ἐτελείετο βουλή</verso>
+            <verso>ἐξ οὗ δὴ τὰ πρῶτα διαστήτην ἐρίσαντε</verso>
+            <verso>Ἀτρεΐδης τε ἄναξ ἀνδρῶν καὶ δῖος Ἀχιλλεύς.</verso>
+        </estrofa>
+    </poema>
+</antologia>

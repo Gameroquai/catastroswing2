@@ -9,12 +9,12 @@
                 <title>boletines</title>
             </head>
             <body>
-                
-                    <xsl:for-each select="//ALUMNO">
-                        <xsl:sort select="C_NUMESCOLAR"/>
-                        <xsl:variable name="nombreCompleto"
-                            select="concat(C_NUMESCOLAR,'Alumno:', T_APELLIDO1, T_APELLIDO2, T_NOMBRE_ALU)"/>
-                        <table border="1">
+
+                <xsl:for-each select="//ALUMNO">
+                    <xsl:sort select="C_NUMESCOLAR"/>
+                    <xsl:variable name="nombreCompleto"
+                        select="concat(C_NUMESCOLAR, 'Alumno:', T_APELLIDO1, T_APELLIDO2, T_NOMBRE_ALU)"/>
+                    <table border="1">
 
                         <tr>
                             <th>
@@ -45,25 +45,29 @@
                             <th class="modulo">modulos</th>
                         </tr>
                         <tr>
-                          <th>
-                              <select>
-                                  <xsl:for-each select="MATERIAS_ALUMNO/MATERIA_ALUMNO">
-                                <option> 
-                                    <xsl:variable name="codAsig" select="X_MATERIAOMG"/>
-                                    <xsl:variable name="nomAsig" select="//MATERIA[X_MATERIAOMG=$codAsig]/D_MATERIAC"/>
-                                   
-                                    <xsl:variable name="codNota" select="X_CALIFICA"/>
-                                    <xsl:variable name="notaAsig" select="//CALIFICACION[X_CALIFICA=$codNota]/T_ABREV"/>   
-                                    
-                                    <xsl:value-of select="concat (position (), '--',$nomAsig, '-------', $notaAsig)"/>
-                                </option>
-                                </xsl:for-each>
-                            </select>
-                          </th>
+                            <th>
+                                <select>
+                                    <xsl:for-each select="MATERIAS_ALUMNO/MATERIA_ALUMNO">
+                                        <option>
+                                            <xsl:variable name="codAsig" select="X_MATERIAOMG"/>
+                                            <xsl:variable name="nomAsig"
+                                                select="//MATERIA[X_MATERIAOMG = $codAsig]/D_MATERIAC"/>
+
+                                            <xsl:variable name="codNota" select="X_CALIFICA"/>
+                                            <xsl:variable name="notaAsig"
+                                                select="//CALIFICACION[X_CALIFICA = $codNota]/T_ABREV"/>
+
+                                            <xsl:value-of
+                                                select="concat(position(), '--', $nomAsig, '-------', $notaAsig)"
+                                            />
+                                        </option>
+                                    </xsl:for-each>
+                                </select>
+                            </th>
                         </tr>
-                        </table>
-                    </xsl:for-each>
-                
+                    </table>
+                </xsl:for-each>
+
             </body>
         </html>
     </xsl:template>
