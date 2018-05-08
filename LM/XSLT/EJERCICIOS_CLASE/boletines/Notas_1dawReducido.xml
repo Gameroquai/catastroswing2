@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-stylesheet type="text/xsl" href="BoletinesCasa/HolaEstiloBoletines.xsl"?>
+<?xml-stylesheet type="text/xsl" href="boletines.xsl"?>
 <SERVICIO>
   <DATOS_GENERALES>
     <MODULO>CALIFICACIONES</MODULO>
