@@ -10,7 +10,7 @@
             </head>
             <body>
                 
-                <xsl:apply-templates select="universidad/alumnos/alumno"></xsl:apply-templates>
+                <xsl:apply-templates select="//alumno"></xsl:apply-templates>
                 
             </body>
         </html>
@@ -38,7 +38,7 @@
         <xsl:variable name="cod"  select="estudios/carrera/@codigo"/>
         <table border="1">
             <tr><td>Alumno</td><td><xsl:value-of select="nombre"/></td></tr>
-            <tr><td>Carrera</td><td><xsl:value-of select="/universidad/carreras/carrera[@id=$cod]/nombre"/></td></tr>
+            <tr><td>Carrera</td><td><xsl:value-of select="//universidad/carreras/carrera[@id=$cod]/nombre"/></td></tr>
             <tr><td colspan="2">ASIGNATURAS</td></tr>
             <xsl:for-each select="estudios/asignaturas/asignatura">
                 <xsl:variable name="codAsig" select="@codigo"/>
