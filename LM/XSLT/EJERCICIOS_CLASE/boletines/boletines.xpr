@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="18.1">
     <meta>
-        <filters directoryPatterns="" filePatterns="Boletines.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
+        <filters directoryPatterns="" filePatterns="boletines.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
         <options/>
     </meta>
-    <projectTree name="Boletines.xpr">
+    <projectTree name="boletines.xpr">
         <folder path="."/>
     </projectTree>
 </project>
