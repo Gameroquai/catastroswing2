@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    version="1.0">
+    version="2.0">
     <xsl:template match="/">
         
         <html>
@@ -48,9 +48,8 @@
                                 <tr>
                                     <td><xsl:value-of select="$nombreMateria"/></td>
                                     <!-- Sacamos las notas -->
-                                    <xsl:for-each select="//SISTEMA_CALIFICACION[X_SISTCAL=$codNota]/CALIFICACIONES[1]/CALIFICACION/D_CALIFICA[X_CALIFICA=$calificacion]">
-                                        <td><xsl:value-of select="."/></td>
-                                    </xsl:for-each>
+                                   
+                                   
                                 </tr>
                             </xsl:for-each>
                             
