@@ -1,0 +1,14 @@
+
+tr.cabecera
+{
+border :1px;
+background-color:#FDF;
+border-top-width:medium;
+border-top-color:#F0F;
+border-style:solid;
+}
+tr
+{
+
+border-bottom-width:medium;
+}
