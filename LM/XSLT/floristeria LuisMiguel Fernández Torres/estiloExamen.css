@@ -1,0 +1,11 @@
+body {background-image:url(fondo1.jpg);}
+h1 {margin:auto; text-align:center; font-size:30px;}
+h3 {margin:auto; text-align:center;}
+ol li {color:white; font-size:28px; font-family:fantasy}
+ul li {color:white; font-size:20px; font-family:fantasy}
+table {background-color:#ddd495;}
+caption {text-align:center; font-weight:bold; font-size:20px; padding:30px}
+p a {color:white; font-weight:bold; font-size:20px;}
+a {}
+
+

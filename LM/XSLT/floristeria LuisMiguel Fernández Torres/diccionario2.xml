@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+   <grupo nombre="Mostly Shady" cant_especies="13">
+      <planta>
+         <nomCientifico>Sanguinaria canadensis</nomCientifico>
+         <nomEsp>ESPBloodroot</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Aquilegia canadensis</nomCientifico>
+         <nomEsp>ESPColumbine</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Caltha palustris</nomCientifico>
+         <nomEsp>ESPCowslip</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Dicentra cucullaria</nomCientifico>
+         <nomEsp>ESPDutchman's-Breeches</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Asarum canadense</nomCientifico>
+         <nomEsp>ESPGinger, Wild</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Hepatica americana</nomCientifico>
+         <nomEsp>ESPHepatica</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Hepatica americana</nomCientifico>
+         <nomEsp>ESPLiverleaf</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Arisaema triphyllum</nomCientifico>
+         <nomEsp>ESPJack-In-The-Pulpit</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Podophyllum peltatum</nomCientifico>
+         <nomEsp>ESPMayapple</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Claytonia Virginica</nomCientifico>
+         <nomEsp>ESPSpring-Beauty</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Anemone blanda</nomCientifico>
+         <nomEsp>ESPAnemone</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Anemone blanda</nomCientifico>
+         <nomEsp>ESPGrecian Windflower</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Dodecatheon</nomCientifico>
+         <nomEsp>ESPShooting Star</nomEsp>
+      </planta>
+   </grupo>
+   <grupo nombre="Mostly Sunny" cant_especies="1">
+      <planta>
+         <nomCientifico>Caltha palustris</nomCientifico>
+         <nomEsp>ESPMarsh Marigold</nomEsp>
+      </planta>
+   </grupo>
+   <grupo nombre="Sun or Shade" cant_especies="6">
+      <planta>
+         <nomCientifico>Phlox divaricata</nomCientifico>
+         <nomEsp>ESPPhlox, Woodland</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Phlox divaricata</nomCientifico>
+         <nomEsp>ESPPhlox, Blue</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Trillium grandiflorum</nomCientifico>
+         <nomEsp>ESPTrillium</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Trillium grandiflorum</nomCientifico>
+         <nomEsp>ESPWake Robin</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Gentiana</nomCientifico>
+         <nomEsp>ESPGentian</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Gentiana</nomCientifico>
+         <nomEsp>ESPBlue Gentian</nomEsp>
+      </planta>
+   </grupo>
+   <grupo nombre="Shade" cant_especies="12">
+      <planta>
+         <nomCientifico>Erythronium americanum</nomCientifico>
+         <nomEsp>ESPViolet, Dog-Tooth</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Erythronium americanum</nomCientifico>
+         <nomEsp>ESPTrout Lily</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Erythronium americanum</nomCientifico>
+         <nomEsp>ESPAdder's-Tongue</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Monarda didyma</nomCientifico>
+         <nomEsp>ESPBee Balm</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Monarda didyma</nomCientifico>
+         <nomEsp>ESPBergamot</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Ranunculus</nomCientifico>
+         <nomEsp>ESPButtercup</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Ranunculus</nomCientifico>
+         <nomEsp>ESPCrowfoot</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Potentilla</nomCientifico>
+         <nomEsp>ESPCinquefoil</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Polemonium caeruleum</nomCientifico>
+         <nomEsp>ESPJacob's Ladder</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Polemonium caeruleum</nomCientifico>
+         <nomEsp>ESPGreek Valerian</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Cimicifuga</nomCientifico>
+         <nomEsp>ESPSnakeroot</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Lobelia cardinalis</nomCientifico>
+         <nomEsp>ESPCardinal Flower</nomEsp>
+      </planta>
+   </grupo>
+   <grupo nombre="Sunny" cant_especies="3">
+      <planta>
+         <nomCientifico>Rudbeckia hirta</nomCientifico>
+         <nomEsp>ESPBlack-Eyed Susan</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Asclepias tuberosa</nomCientifico>
+         <nomEsp>ESPButterfly Weed</nomEsp>
+      </planta>
+      <planta>
+         <nomCientifico>Oenothera</nomCientifico>
+         <nomEsp>ESPPrimrose</nomEsp>
+      </planta>
+   </grupo>
+   <grupo nombre="Sun" cant_especies="1">
+      <planta>
+         <nomCientifico>Eschscholzia californica</nomCientifico>
+         <nomEsp>ESPCalifornia Poppy</nomEsp>
+      </planta>
+   </grupo>
+</catalogo>

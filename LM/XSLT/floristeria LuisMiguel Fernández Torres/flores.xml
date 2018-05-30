@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CATALOG>
+    <FLORIST>
+        <NAME>FLOWES LTD</NAME>
+        <ADDRESS>London Street</ADDRESS>
+        <NUMBER>48, 2034</NUMBER>
+        <CITY>LONDON</CITY>
+    </FLORIST>
+    <PLANTS>
+    <PLANT>
+        <COMMON>Bloodroot</COMMON>
+        <BOTANICAL>Sanguinaria canadensis</BOTANICAL>
+        <ZONE>4</ZONE>
+        <LIGHT>Mostly Shady</LIGHT>
+        <PRICE>$2.44</PRICE>
+        <SOLDED_UNITS>123</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Columbine</COMMON>
+        <BOTANICAL>Aquilegia canadensis</BOTANICAL>
+        <ZONE>3</ZONE>
+        <LIGHT>Mostly Shady</LIGHT>
+        <PRICE>$9.37</PRICE>
+        <SOLDED_UNITS>34</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Marsh Marigold</COMMON>
+        <BOTANICAL>Caltha palustris</BOTANICAL>
+        <ZONE>4</ZONE>
+        <LIGHT>Mostly Sunny</LIGHT>
+        <PRICE>$6.81</PRICE>
+        <SOLDED_UNITS>234</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Cowslip</COMMON>
+        <BOTANICAL>Caltha palustris</BOTANICAL>
+        <ZONE>4</ZONE>
+        <LIGHT>Mostly Shady</LIGHT>
+        <PRICE>$9.90</PRICE>
+        <SOLDED_UNITS>1123</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Dutchman's-Breeches</COMMON>
+        <BOTANICAL>Dicentra cucullaria</BOTANICAL>
+        <ZONE>3</ZONE>
+        <LIGHT>Mostly Shady</LIGHT>
+        <PRICE>$6.44</PRICE>
+        <SOLDED_UNITS>127</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Ginger, Wild</COMMON>
+        <BOTANICAL>Asarum canadense</BOTANICAL>
+        <ZONE>3</ZONE>
+        <LIGHT>Mostly Shady</LIGHT>
+        <PRICE>$9.03</PRICE>
+        <SOLDED_UNITS>782</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Hepatica</COMMON>
+        <BOTANICAL>Hepatica americana</BOTANICAL>
+        <ZONE>4</ZONE>
+        <LIGHT>Mostly Shady</LIGHT>
+        <PRICE>$4.45</PRICE>
+        <SOLDED_UNITS>231</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Liverleaf</COMMON>
+        <BOTANICAL>Hepatica americana</BOTANICAL>
+        <ZONE>4</ZONE>
+        <LIGHT>Mostly Shady</LIGHT>
+        <PRICE>$3.99</PRICE>
+        <SOLDED_UNITS>22</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Jack-In-The-Pulpit</COMMON>
+        <BOTANICAL>Arisaema triphyllum</BOTANICAL>
+        <ZONE>4</ZONE>
+        <LIGHT>Mostly Shady</LIGHT>
+        <PRICE>$3.23</PRICE>
+        <SOLDED_UNITS>1775</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Mayapple</COMMON>
+        <BOTANICAL>Podophyllum peltatum</BOTANICAL>
+        <ZONE>3</ZONE>
+        <LIGHT>Mostly Shady</LIGHT>
+        <PRICE>$2.98</PRICE>
+        <SOLDED_UNITS>060599</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Phlox, Woodland</COMMON>
+        <BOTANICAL>Phlox divaricata</BOTANICAL>
+        <ZONE>3</ZONE>
+        <LIGHT>Sun or Shade</LIGHT>
+        <PRICE>$2.80</PRICE>
+        <SOLDED_UNITS>223</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Phlox, Blue</COMMON>
+        <BOTANICAL>Phlox divaricata</BOTANICAL>
+        <ZONE>3</ZONE>
+        <LIGHT>Sun or Shade</LIGHT>
+        <PRICE>$5.59</PRICE>
+        <SOLDED_UNITS>654</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Spring-Beauty</COMMON>
+        <BOTANICAL>Claytonia Virginica</BOTANICAL>
+        <ZONE>7</ZONE>
+        <LIGHT>Mostly Shady</LIGHT>
+        <PRICE>$6.59</PRICE>
+        <SOLDED_UNITS>345</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Trillium</COMMON>
+        <BOTANICAL>Trillium grandiflorum</BOTANICAL>
+        <ZONE>5</ZONE>
+        <LIGHT>Sun or Shade</LIGHT>
+        <PRICE>$3.90</PRICE>
+        <SOLDED_UNITS>120</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Wake Robin</COMMON>
+        <BOTANICAL>Trillium grandiflorum</BOTANICAL>
+        <ZONE>5</ZONE>
+        <LIGHT>Sun or Shade</LIGHT>
+        <PRICE>$3.20</PRICE>
+        <SOLDED_UNITS>334</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Violet, Dog-Tooth</COMMON>
+        <BOTANICAL>Erythronium americanum</BOTANICAL>
+        <ZONE>4</ZONE>
+        <LIGHT>Shade</LIGHT>
+        <PRICE>$9.04</PRICE>
+        <SOLDED_UNITS>232</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Trout Lily</COMMON>
+        <BOTANICAL>Erythronium americanum</BOTANICAL>
+        <ZONE>4</ZONE>
+        <LIGHT>Shade</LIGHT>
+        <PRICE>$6.94</PRICE>
+        <SOLDED_UNITS>112</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Adder's-Tongue</COMMON>
+        <BOTANICAL>Erythronium americanum</BOTANICAL>
+        <ZONE>4</ZONE>
+        <LIGHT>Shade</LIGHT>
+        <PRICE>$9.58</PRICE>
+        <SOLDED_UNITS>345</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Anemone</COMMON>
+        <BOTANICAL>Anemone blanda</BOTANICAL>
+        <ZONE>6</ZONE>
+        <LIGHT>Mostly Shady</LIGHT>
+        <PRICE>$8.86</PRICE>
+        <SOLDED_UNITS>67</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Grecian Windflower</COMMON>
+        <BOTANICAL>Anemone blanda</BOTANICAL>
+        <ZONE>6</ZONE>
+        <LIGHT>Mostly Shady</LIGHT>
+        <PRICE>$9.16</PRICE>
+        <SOLDED_UNITS>231</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Bee Balm</COMMON>
+        <BOTANICAL>Monarda didyma</BOTANICAL>
+        <ZONE>4</ZONE>
+        <LIGHT>Shade</LIGHT>
+        <PRICE>$4.59</PRICE>
+        <SOLDED_UNITS>98</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Bergamot</COMMON>
+        <BOTANICAL>Monarda didyma</BOTANICAL>
+        <ZONE>4</ZONE>
+        <LIGHT>Shade</LIGHT>
+        <PRICE>$7.16</PRICE>
+        <SOLDED_UNITS>429</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Black-Eyed Susan</COMMON>
+        <BOTANICAL>Rudbeckia hirta</BOTANICAL>
+        <ZONE>Annual</ZONE>
+        <LIGHT>Sunny</LIGHT>
+        <PRICE>$9.80</PRICE>
+        <SOLDED_UNITS>334</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Buttercup</COMMON>
+        <BOTANICAL>Ranunculus</BOTANICAL>
+        <ZONE>4</ZONE>
+        <LIGHT>Shade</LIGHT>
+        <PRICE>$2.57</PRICE>
+        <SOLDED_UNITS>780</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Crowfoot</COMMON>
+        <BOTANICAL>Ranunculus</BOTANICAL>
+        <ZONE>4</ZONE>
+        <LIGHT>Shade</LIGHT>
+        <PRICE>$9.34</PRICE>
+        <SOLDED_UNITS>234</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Butterfly Weed</COMMON>
+        <BOTANICAL>Asclepias tuberosa</BOTANICAL>
+        <ZONE>Annual</ZONE>
+        <LIGHT>Sunny</LIGHT>
+        <PRICE>$2.78</PRICE>
+        <SOLDED_UNITS>672</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Cinquefoil</COMMON>
+        <BOTANICAL>Potentilla</BOTANICAL>
+        <ZONE>Annual</ZONE>
+        <LIGHT>Shade</LIGHT>
+        <PRICE>$7.06</PRICE>
+        <SOLDED_UNITS>435</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Primrose</COMMON>
+        <BOTANICAL>Oenothera</BOTANICAL>
+        <ZONE>3 - 5</ZONE>
+        <LIGHT>Sunny</LIGHT>
+        <PRICE>$6.56</PRICE>
+        <SOLDED_UNITS>789</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Gentian</COMMON>
+        <BOTANICAL>Gentiana</BOTANICAL>
+        <ZONE>4</ZONE>
+        <LIGHT>Sun or Shade</LIGHT>
+        <PRICE>$7.81</PRICE>
+        <SOLDED_UNITS>234</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Blue Gentian</COMMON>
+        <BOTANICAL>Gentiana</BOTANICAL>
+        <ZONE>4</ZONE>
+        <LIGHT>Sun or Shade</LIGHT>
+        <PRICE>$8.56</PRICE>
+        <SOLDED_UNITS>62</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Jacob's Ladder</COMMON>
+        <BOTANICAL>Polemonium caeruleum</BOTANICAL>
+        <ZONE>Annual</ZONE>
+        <LIGHT>Shade</LIGHT>
+        <PRICE>$9.26</PRICE>
+        <SOLDED_UNITS>333</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Greek Valerian</COMMON>
+        <BOTANICAL>Polemonium caeruleum</BOTANICAL>
+        <ZONE>Annual</ZONE>
+        <LIGHT>Shade</LIGHT>
+        <PRICE>$4.36</PRICE>
+        <SOLDED_UNITS>267</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>California Poppy</COMMON>
+        <BOTANICAL>Eschscholzia californica</BOTANICAL>
+        <ZONE>Annual</ZONE>
+        <LIGHT>Sun</LIGHT>
+        <PRICE>$7.89</PRICE>
+        <SOLDED_UNITS>236</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Shooting Star</COMMON>
+        <BOTANICAL>Dodecatheon</BOTANICAL>
+        <ZONE>Annual</ZONE>
+        <LIGHT>Mostly Shady</LIGHT>
+        <PRICE>$8.60</PRICE>
+        <SOLDED_UNITS>344</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Snakeroot</COMMON>
+        <BOTANICAL>Cimicifuga</BOTANICAL>
+        <ZONE>Annual</ZONE>
+        <LIGHT>Shade</LIGHT>
+        <PRICE>$5.63</PRICE>
+        <SOLDED_UNITS>712</SOLDED_UNITS>
+    </PLANT>
+    <PLANT>
+        <COMMON>Cardinal Flower</COMMON>
+        <BOTANICAL>Lobelia cardinalis</BOTANICAL>
+        <ZONE>2</ZONE>
+        <LIGHT>Shade</LIGHT>
+        <PRICE>$3.02</PRICE>
+        <SOLDED_UNITS>234</SOLDED_UNITS>
+    </PLANT>
+    </PLANTS>
+</CATALOG>

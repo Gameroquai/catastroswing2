@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<ROWDATA>
+
+<ROW>
+  <NOMBRE_LARGO>Dorado Ponce, Kiko</NOMBRE_LARGO>
+  <DNI>25605026T</DNI>
+  <DIRECCION>Avda. La Libertad, 28</DIRECCION>
+  <CP>29380</CP>
+  <LOCALIDAD>Cortes de la Frontera</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>2_DAI</GRUPO>
+  <E_MAIL>juan_manuel_barea_sevilla2@hotmail.com</E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>212220</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Barea Sevilla, Juan Manuel</NOMBRE_LARGO>
+  <DNI>25605026T</DNI>
+  <DIRECCION>Avda. La Libertad, 28</DIRECCION>
+  <CP>29380</CP>
+  <LOCALIDAD>Cortes de la Frontera</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>2_DAI</GRUPO>
+  <E_MAIL>juan_manuel_barea_sevilla2@hotmail.com</E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>582801</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Alba Borrego, Carlos</NOMBRE_LARGO>
+  <DNI>74938356D</DNI>
+  <DIRECCION>C/ San Pedro, 12 3_ C</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>2_DAI</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>351284</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Alberti Vargas, Juli&#225;n Ignacio</NOMBRE_LARGO>
+  <DNI>X4999871Q</DNI>
+  <DIRECCION>C/ San Roque, 23</DIRECCION>
+  <CP>11693</CP>
+  <LOCALIDAD>Alcal&#225; del Valle</LOCALIDAD>
+  <PROVINCIA>C&#225;diz</PROVINCIA>
+  <GRUPO>2_DAI</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>1710865</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>&#193;lvarez Cabrera, Alejandro</NOMBRE_LARGO>
+  <DNI>25600321X</DNI>
+  <DIRECCION>C/ Francisco Cintado, 8</DIRECCION>
+  <CP>29350</CP>
+  <LOCALIDAD>Arriate</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>1_DAW</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>240749</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Dorado Redondo, Daniel</NOMBRE_LARGO>
+  <DNI>25602741S</DNI>
+  <DIRECCION>C/ Arenal, 106</DIRECCION>
+  <CP>11693</CP>
+  <LOCALIDAD>Alcal&#225; del Valle</LOCALIDAD>
+  <PROVINCIA>C&#225;diz</PROVINCIA>
+  <GRUPO>1_DAW</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>439968</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Berdugo Aguado, Jared</NOMBRE_LARGO>
+  <DNI>25604877N</DNI>
+  <DIRECCION>C/ El Prado, 7</DIRECCION>
+  <CP>29350</CP>
+  <LOCALIDAD>Arriate</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>1_DAW</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>193495</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Bravo Le&#243;n, Antonio</NOMBRE_LARGO>
+  <DNI>25600083W</DNI>
+  <DIRECCION>C/ Cantos, 15</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>2_DAI</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>3011738</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Carbonell Madrid, Enrique</NOMBRE_LARGO>
+  <DNI>25603257W</DNI>
+  <DIRECCION>C/ Lucero, 7</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>2_DAI</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>1784514</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Carrasco Cascales, C&#233;sar</NOMBRE_LARGO>
+  <DNI>74929387X</DNI>
+  <DIRECCION>C/ Montes, 42 1_</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>2_DAI</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>91419</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Carrasco Garc&#237;a, Adri&#225;n</NOMBRE_LARGO>
+  <DNI>74939740J</DNI>
+  <DIRECCION>C/ Francisco Forgione, 4 BJ A</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>1_DAW</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>408270</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Carvajal S&#225;nchez, Francisco Javier</NOMBRE_LARGO>
+  <DNI>74939306Q</DNI>
+  <DIRECCION>C/ Monterejas, 40 1 1 6</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>1_DAW</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>398684</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Chaves Medina, Daniel</NOMBRE_LARGO>
+  <DNI>74935744L</DNI>
+  <DIRECCION>C/  Cerrillo, 12</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>2_DAI</GRUPO>
+  <E_MAIL>dani29400@hotmail.com</E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>856691</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Garc&#237;a Melgar, Mois&#233;s</NOMBRE_LARGO>
+  <DNI>25598288R</DNI>
+  <DIRECCION>C/ Venta Aguayar, 5</DIRECCION>
+  <CP>29493</CP>
+  <LOCALIDAD>Benadalid</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>2_DAI</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>1746369</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Garc&#237;a Nieto, Anabel</NOMBRE_LARGO>
+  <DNI>25599112C</DNI>
+  <DIRECCION>C/ San Vicente de Pa&#250;l, 21</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>2_DAI</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>M       </SEXO>
+  <NIE>408902</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Florido Ruiz, Marta</NOMBRE_LARGO>
+  <DNI>74930248C</DNI>
+  <DIRECCION>C/ Pocaharina, 14</DIRECCION>
+  <CP>29420</CP>
+  <LOCALIDAD>El Burgo</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>2_DAI</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>M       </SEXO>
+  <NIE>398562</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Gamarro Orozco, Antonio &#193;ngel</NOMBRE_LARGO>
+  <DNI>25601134H</DNI>
+  <DIRECCION>C/ Curro Guill&#233;n, 6 2_ D</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>2_DAI</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>355515</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Lobo Balongo, Jos&#233; Mar&#237;a</NOMBRE_LARGO>
+  <DNI>74939806X</DNI>
+  <DIRECCION>C/ Curro Guill&#233;n, 6 14 A</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>1_DAW</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>707453</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Gonz&#225;lez Torres, Jos&#233; Antonio</NOMBRE_LARGO>
+  <DNI>25603095R</DNI>
+  <DIRECCION>Avda. Blas Infante, 2</DIRECCION>
+  <CP>29350</CP>
+  <LOCALIDAD>Arriate</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>2_DAI</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>1332669</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Montilla Fern&#225;ndez, Jos&#233; Joaqu&#237;n</NOMBRE_LARGO>
+  <DNI>25601682Z</DNI>
+  <DIRECCION>Avda. Andaluc&#237;a, 18 3 3 25</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>1_DAW</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>1741748</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Moreno Torre&#241;o, Ainoa Sof&#237;a</NOMBRE_LARGO>
+  <DNI>25604369X</DNI>
+  <DIRECCION>C/ Sierra Hidalga Urb.Los Pinos, 17</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>2_DAI</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>M       </SEXO>
+  <NIE>584379</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>M&#225;rquez R&#237;os, Judit Mar&#237;a</NOMBRE_LARGO>
+  <DNI>74934204C</DNI>
+  <DIRECCION>C/ Ca&#241;ada del Real Tesoro, 95</DIRECCION>
+  <CP>29391</CP>
+  <LOCALIDAD>Cortes de la Frontera</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>1_DAW</GRUPO>
+  <E_MAIL>judire25@hotmail.com</E_MAIL>
+  <SEXO>M       </SEXO>
+  <NIE>417434</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Mena Torres, Antonio</NOMBRE_LARGO>
+  <DNI>25600210Z</DNI>
+  <DIRECCION>Avda. Juan Alameda, 2 1 C</DIRECCION>
+  <CP>29601</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>1_DAW</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>419166</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Rodr&#237;guez Toledo, Jos&#233;</NOMBRE_LARGO>
+  <DNI>25601053Y</DNI>
+  <DIRECCION>C/ El Gastor, 11</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>1_DAW</GRUPO>
+  <E_MAIL>toledo.jrt@gmail.com</E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>3016566</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Nieblas Urda, V&#237;ctor Manuel</NOMBRE_LARGO>
+  <DNI>74938744Y</DNI>
+  <DIRECCION>C/ Montecorto, 6 3_ A</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>2_DAI</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>1185481</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Ord&#243;&#241;ez Becerra, Jos&#233;</NOMBRE_LARGO>
+  <DNI>25600302Z</DNI>
+  <DIRECCION>C/ Pablo VI, 2</DIRECCION>
+  <CP>29350</CP>
+  <LOCALIDAD>Arriate</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>1_DAW</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>2076512</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Ord&#243;&#241;ez Villar, Alejandro</NOMBRE_LARGO>
+  <DNI>74939058K</DNI>
+  <DIRECCION>C/ Torrejones, 22 9</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>1_DAW</GRUPO>
+  <E_MAIL>vicias010@hotmail.com</E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>856546</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Ortega Mesa, Macarena</NOMBRE_LARGO>
+  <DNI>25604099Q</DNI>
+  <DIRECCION>C/ Antonio Gonz&#225;lez Garc&#237;a, 1 1 1_ C</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>1_DAW</GRUPO>
+  <E_MAIL>maorme.9.5@hotmail.com</E_MAIL>
+  <SEXO>M       </SEXO>
+  <NIE>277674</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Piedra M&#225;rquez, Ana Mar&#237;a</NOMBRE_LARGO>
+  <DNI>25603188W</DNI>
+  <DIRECCION>C/ Partido Fuente la Higuera, 30</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>1_DAW</GRUPO>
+  <E_MAIL>piedra_ana@hotmail.com</E_MAIL>
+  <SEXO>M       </SEXO>
+  <NIE>374810</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Valdenebro Reyes, &#193;lvaro</NOMBRE_LARGO>
+  <DNI>25599046T</DNI>
+  <DIRECCION>C/ Maestro Rural, 12</DIRECCION>
+  <CP>29350</CP>
+  <LOCALIDAD>Arriate</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>1_DAW</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>357647</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>V&#225;zquez Lamela, Pablo Jos&#233;</NOMBRE_LARGO>
+  <DNI>25603527L</DNI>
+  <DIRECCION>C/ Portichuelo, 15 1_ A</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>1_DAW</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>1631434</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Ruiz Becerra, Diego Jos&#233;</NOMBRE_LARGO>
+  <DNI>25601307F</DNI>
+  <DIRECCION>Plaza Andaluc&#237;a, 10 1_ B</DIRECCION>
+  <CP>29380</CP>
+  <LOCALIDAD>Cortes de la Frontera</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>2_DAI</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>635751</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Ruiz Torres, Francisco Manuel</NOMBRE_LARGO>
+  <DNI>25601876R</DNI>
+  <DIRECCION>C/ Giner de los R&#237;os, 22 1 B</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>2_DAI</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>1066720</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>S&#225;nchez Andrades, David</NOMBRE_LARGO>
+  <DNI>25598417S</DNI>
+  <DIRECCION>C/ Vieja, 9</DIRECCION>
+  <CP>29494</CP>
+  <LOCALIDAD>Atajate</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>2_DAI</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>170486</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>S&#225;nchez Vivas, Jos&#233; Lu&#237;s</NOMBRE_LARGO>
+  <DNI>25600191H</DNI>
+  <DIRECCION>C/ Vi&#241;a la Cerca, 22</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>1_DAW</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>H       </SEXO>
+  <NIE>857108</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Sierra Gonz&#225;lez, Gwendoline</NOMBRE_LARGO>
+  <DNI>25601195X</DNI>
+  <DIRECCION>Avda. Per&#250;, 20</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>1_DAW</GRUPO>
+  <E_MAIL>ecopanda45@hotmail.com</E_MAIL>
+  <SEXO>M       </SEXO>
+  <NIE>437496</NIE>
+</ROW>
+
+<ROW>
+  <NOMBRE_LARGO>Villar Troyano, Laura</NOMBRE_LARGO>
+  <DNI>25602217C</DNI>
+  <DIRECCION>C/ Santa Mar&#237;a, 59</DIRECCION>
+  <CP>29400</CP>
+  <LOCALIDAD>Ronda</LOCALIDAD>
+  <PROVINCIA>M&#225;laga</PROVINCIA>
+  <GRUPO>2_DAI</GRUPO>
+  <E_MAIL></E_MAIL>
+  <SEXO>M       </SEXO>
+  <NIE>2427760</NIE>
+</ROW>
+
+</ROWDATA>
