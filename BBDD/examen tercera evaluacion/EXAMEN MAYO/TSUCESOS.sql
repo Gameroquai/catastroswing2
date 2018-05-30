@@ -1,0 +1,20 @@
+  CREATE OR REPLACE TRIGGER "USU18"."TSUCESOS" 
+AFTER CREATE OR LOGON OR DDL OR GRANT ON DATABASE 
+BEGIN
+  INSERT INTO sucesos (
+    usuario,
+    fecha,
+    nombre_objeto,
+    tipo_objeto,
+    
+    evento
+) VALUES (
+    ORA_LOGIN_USER,
+    SYSTIMESTAMP,
+    ORA_DICT_OBJ_NAME,
+    ORA_DICT_OBJ_TYPE,
+    ORA_SYSEVENT
+);
+END;
+/
+ALTER TRIGGER "USU18"."TSUCESOS" ENABLE;
