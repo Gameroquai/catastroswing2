@@ -728,13 +728,13 @@ public class ConectaBD {
 
     /**
      *
-     * @param tabla
-     * @return
+     * @param tablabd
+     * @return tablemodel para jtable
      */
-    public DefaultTableModel tableModel(String tabla) {
+    public DefaultTableModel tableModel(String tablabd) {
         DefaultTableModel defaultTableModel = new DefaultTableModel();
 
-        ejecutarConsulta("Select * from " + tabla);
+        ejecutarConsulta("Select * from " + tablabd);
         try {
             ResultSetMetaData metadata = resultSet.getMetaData();
             int columns = metadata.getColumnCount(); // Get number of columns
@@ -765,10 +765,10 @@ public class ConectaBD {
         return defaultTableModel;
     }
 
-    public void cargaCombo(JComboBox<Object> combo, String tabla) {
+    public void cargaCombo(JComboBox<Object> combo, String tablabd) {
 
         try {
-            ResultSet ejecutarConsulta = ejecutarConsulta("select * from " + tabla);
+            ResultSet ejecutarConsulta = ejecutarConsulta("select * from " + tablabd);
 
             ResultSetMetaData metaData = ejecutarConsulta.getMetaData();
             int columnCount = metaData.getColumnCount();
