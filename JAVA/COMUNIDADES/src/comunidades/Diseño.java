@@ -28,21 +28,25 @@ public class Diseño extends javax.swing.JFrame {
         ConectaBD bD = new ConectaBD();
         DefaultTableModel tableModel = bD.tableModel("comunidades");
         tablaComunidades.setModel(tableModel);
+        
         TableRowSorter rowSorter = new TableRowSorter(tableModel);
         tablaComunidades.setRowSorter(rowSorter);
+        
         DefaultTableModel tableMode = bD.tableModel("Provincias");
+        TableRowSorter rowSorter1 = new TableRowSorter(tableMode);
         jTable2.setModel(tableMode);
-        jTable2.setRowSorter(rowSorter);
+        
+        jTable2.setRowSorter(rowSorter1);
         
 
         tablaComunidades.addMouseListener(new MouseAdapter() {
             @Override
             public void mouseClicked(MouseEvent e) {
                 super.mouseClicked(e); //To change body of generated methods, choose Tools | Templates.
-                TableRowSorter rowSorter1 = new TableRowSorter(tableModel);
+                
                 String value = (String)tablaComunidades.getValueAt(tablaComunidades.getSelectedRow(), 1);
                 rowSorter1.setRowFilter(RowFilter.regexFilter(value,0));
-                jTable2.setRowSorter(rowSorter1);
+               // jTable2.setRowSorter(rowSorter1);
             }
 
         });
