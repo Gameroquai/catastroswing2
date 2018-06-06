@@ -5,6 +5,8 @@
  */
 package comunidades;
 
+import java.awt.event.ItemEvent;
+import java.awt.event.ItemListener;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
@@ -14,6 +16,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.DefaultCellEditor;
 import javax.swing.JComboBox;
+import javax.swing.JOptionPane;
 import javax.swing.RowFilter;
 import javax.swing.RowSorter;
 import javax.swing.table.DefaultTableModel;
@@ -27,7 +30,7 @@ import javax.swing.table.TableRowSorter;
  */
 public class Diseño extends javax.swing.JFrame {
 
-    Object comboPobSel;
+    String comboPobSel;
     /**
      * Creates new form Diseño
      */
@@ -84,15 +87,44 @@ public class Diseño extends javax.swing.JFrame {
             }
         });
         
-        comboPueblos.addMouseListener(new MouseAdapter() {
+        /*comboPueblos.addMouseListener(new MouseAdapter() {
             @Override
             public void mouseClicked(MouseEvent e) {
                 super.mouseClicked(e); //To change body of generated methods, choose Tools | Templates.
+                String selectID = (String) tablaProvincias.getValueAt(tablaProvincias.getSelectedRow(), 1);
+                //System.out.println(selectID);
+                comboPueblos.removeAllItems();
+                ResultSet sacarPueblo = bD.ejecutarConsulta("select poblacionseo from poblaciones where idprovincia = "+selectID);
+                try {
+                    while(sacarPueblo.next()){
+                        comboPueblos.addItem(sacarPueblo.getString(1));
+                    }
+                } catch (SQLException ex) {
+                    Logger.getLogger(Diseño.class.getName()).log(Level.SEVERE, null, ex);
+                }
                 comboPobSel = (String) comboPueblos.getSelectedItem();
+                System.out.println(comboPobSel);
+                ResultSet ejecutarConsulta = bD.ejecutarConsulta("select * from poblaciones where poblacionseo = "+comboPobSel);
+                try {
+                    while(ejecutarConsulta.next()){
+                        cpLabel.setText(ejecutarConsulta.getString(1));
+                    }
+                } catch (SQLException ex) {
+                    Logger.getLogger(Diseño.class.getName()).log(Level.SEVERE, null, ex);
+                }
+            }
+        });*/
+        
+        comboPueblos.addItemListener(new ItemListener() {
+            @Override
+            public void itemStateChanged(ItemEvent e) {
+                
             }
         });
         
-        cpLabel.setText("CP: "+);
+        
+        
+        
     }
 
     /**
@@ -113,6 +145,7 @@ public class Diseño extends javax.swing.JFrame {
         pueblos = new javax.swing.JLabel();
         jPanel1 = new javax.swing.JPanel();
         cpLabel = new javax.swing.JLabel();
+        nombreLabel = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -150,22 +183,30 @@ public class Diseño extends javax.swing.JFrame {
 
         cpLabel.setText("CP: ");
 
+        nombreLabel.setText("jLabel3");
+
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(cpLabel)
-                .addContainerGap(128, Short.MAX_VALUE))
+                .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(nombreLabel)
+                    .addComponent(cpLabel))
+                .addContainerGap(114, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
                 .addContainerGap()
+                .addComponent(nombreLabel)
+                .addGap(18, 18, 18)
                 .addComponent(cpLabel)
-                .addContainerGap(202, Short.MAX_VALUE))
+                .addContainerGap(170, Short.MAX_VALUE))
         );
+
+        nombreLabel.getAccessibleContext().setAccessibleName("nombre");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -251,6 +292,7 @@ public class Diseño extends javax.swing.JFrame {
     private javax.swing.JPanel jPanel1;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JScrollPane jScrollPane2;
+    private javax.swing.JLabel nombreLabel;
     private javax.swing.JLabel pueblos;
     private javax.swing.JTable tablaComunidades;
     private javax.swing.JTable tablaProvincias;
