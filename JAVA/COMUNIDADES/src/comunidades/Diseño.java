@@ -87,7 +87,7 @@ public class Diseño extends javax.swing.JFrame {
             }
         });
         
-        /*comboPueblos.addMouseListener(new MouseAdapter() {
+        comboPueblos.addMouseListener(new MouseAdapter() {
             @Override
             public void mouseClicked(MouseEvent e) {
                 super.mouseClicked(e); //To change body of generated methods, choose Tools | Templates.
@@ -113,17 +113,7 @@ public class Diseño extends javax.swing.JFrame {
                     Logger.getLogger(Diseño.class.getName()).log(Level.SEVERE, null, ex);
                 }
             }
-        });*/
-        
-        comboPueblos.addItemListener(new ItemListener() {
-            @Override
-            public void itemStateChanged(ItemEvent e) {
-                
-            }
         });
-        
-        
-        
         
     }
 
